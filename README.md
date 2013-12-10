@@ -1,4 +1,4 @@
-project_template
-================
-
 Basic Starter Template
+======================
+
+Boilerplate files for basic site.
